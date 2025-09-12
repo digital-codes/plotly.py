@@ -1,4 +1,4 @@
-requests==2.31.0
+requests==2.32.4
 pandas
 numpy
 xarray==2023.12.0
